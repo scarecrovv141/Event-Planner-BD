@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "139548074291",
+    "firebase_url": "https://final-event-bea87.firebaseio.com",
+    "project_id": "final-event-bea87",
+    "storage_bucket": "final-event-bea87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139548074291:android:4e8c44e64f42c714e29e46",
+        "android_client_info": {
+          "package_name": "com.example.final_tausif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139548074291-krsad8rtk49s4hpdfhp47csd96qjq117.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL_srEFLhnuib7tkkvVGmBcJLVxNp2pG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139548074291-krsad8rtk49s4hpdfhp47csd96qjq117.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
